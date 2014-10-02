@@ -12,4 +12,4 @@ normalmente no guardan el resultado de dicha traducción.
 
  La principal diferencia radica en el número de líneas de código existente en cada uno (helloWorld.sh tiene
 tres mientras que helloWorld.rb tiene sólo una).
- La primera línea del fichero helloWorld.sh indica a la bash que dicho fichero es un Script.
+ La primera línea del fichero helloWorld.sh indica a la shell el programa con el cual ejecutar el fichero.

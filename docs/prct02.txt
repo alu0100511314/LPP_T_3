@@ -6,3 +6,10 @@ Trabajo en equipo con git
 desde su descripción en un lenguaje de programación al código de máquina del sistema, los
 intérpretes sólo realizan la traducción a medida que sea necesaria instrucción por instrucción, y
 normalmente no guardan el resultado de dicha traducción.
+
+56) ¿Cuál es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+
+ La principal diferencia radica en el número de líneas de código existente en cada uno (helloWorld.sh tiene
+tres mientras que helloWorld.rb tiene sólo una).
+ La primera línea del fichero helloWorld.sh indica a la bash que dicho fichero es un Script.
